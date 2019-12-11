@@ -1,0 +1,25 @@
+$red_bckgColor: indianred;
+$blue_bckgColor: teal;
+$grey_bckgColor: lightgrey;
+$sass_textColor: white;
+$react_textColor: salmon;
+
+.title-style{
+    background-color: $red_bckgColor;
+}
+
+.sass-style{
+    color: $sass_textColor;
+    background-color: $blue_bckgColor;
+    font-size: 20px;
+}
+
+img {
+    width: 200px;
+}
+
+.react-style{
+    color: $react_textColor;
+    background-color: $grey_bckgColor;
+    font-size:24px;
+}
